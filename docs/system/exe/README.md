@@ -12,8 +12,8 @@ The `$exe` api runs a command, opens a URL, or opens an application.
 
 | Name                                      | Description |
 | ----------------------------------------- | ----------- |
-| [parse](methods/parse)                 | Unknown     |
-| [parseURL](methods/parseurl)           | Unknown     |
-| [stringify](methods/stringify)         | Unknown     |
-| [parseGeometry](methods/parsegeometry) | Unknown     |
-| [silent](methods/silent)               | Unknown     |
+| [parse](methods/parse)                    | Unknown     |
+| [parseURL](methods/parseurl)              | Unknown     |
+| [stringify](methods/stringify)            | Unknown     |
+| [parseGeometry](methods/parsegeometry)    | Unknown     |
+| [silent](methods/silent)                  | Unknown     |
